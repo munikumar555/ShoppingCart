@@ -12,7 +12,6 @@ import com.ntt.shopping.cart.entity.EventLog;
 import com.ntt.shopping.cart.entity.ShoppingCart;
 import com.ntt.shopping.cart.repository.EventLogRepository;
 import com.ntt.shopping.cart.repository.ProductRepository;
-import com.ntt.shopping.cart.service.ShoppingCartPublishMessageService;
 
 @Service
 public class ShoppingCartService {
